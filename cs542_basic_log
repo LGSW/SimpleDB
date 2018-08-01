@@ -1,0 +1,8 @@
+Apr 25, 2017 2:18:54 PM simpledb.tx.recovery.StartRecord writeToLog
+INFO: <START 1>
+Apr 25, 2017 2:18:54 PM simpledb.server.SimpleDB init
+INFO: Recovering existing database
+Apr 25, 2017 2:18:54 PM simpledb.tx.recovery.CheckpointRecord writeToLog
+INFO: <CHECKPOINT>
+Apr 25, 2017 2:18:54 PM simpledb.tx.recovery.CommitRecord writeToLog
+INFO: <COMMIT 1>
